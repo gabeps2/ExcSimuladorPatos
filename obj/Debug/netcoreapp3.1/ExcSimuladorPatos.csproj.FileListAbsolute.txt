@@ -1,0 +1,13 @@
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\obj\Debug\netcoreapp3.1\ExcSimuladorPatos.csprojAssemblyReference.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\obj\Debug\netcoreapp3.1\ExcSimuladorPatos.csproj.CoreCompileInputs.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\obj\Debug\netcoreapp3.1\ExcSimuladorPatos.AssemblyInfoInputs.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\obj\Debug\netcoreapp3.1\ExcSimuladorPatos.AssemblyInfo.cs
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\bin\Debug\netcoreapp3.1\ExcSimuladorPatos.exe
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\bin\Debug\netcoreapp3.1\ExcSimuladorPatos.deps.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\bin\Debug\netcoreapp3.1\ExcSimuladorPatos.runtimeconfig.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\bin\Debug\netcoreapp3.1\ExcSimuladorPatos.runtimeconfig.dev.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\bin\Debug\netcoreapp3.1\ExcSimuladorPatos.dll
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\bin\Debug\netcoreapp3.1\ExcSimuladorPatos.pdb
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\obj\Debug\netcoreapp3.1\ExcSimuladorPatos.dll
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\obj\Debug\netcoreapp3.1\ExcSimuladorPatos.pdb
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\POO\Exercícios\ExcSimuladorPatos\obj\Debug\netcoreapp3.1\ExcSimuladorPatos.genruntimeconfig.cache
